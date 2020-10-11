@@ -1,1 +1,2 @@
-# Chem576_HW
+## Chem576 HW
+Solved with Sympy
